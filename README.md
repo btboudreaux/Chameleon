@@ -7,7 +7,7 @@ https://bigpotato.com/blogs/blog/how-to-play-the-chameleon-instructions
 Instructions
 
 1) In emailer.py, put in your own credentials. It uses gmail by default. 
-2) In player_data.csv, put in Names/Email addresses as needed
+2) In player_data.csv, put in Names/Email addresses as needed. DO NOT edit the first line that says "Name,Email".
 3) run main.py
 4) Sometimes the game may cause an error b/c there are empty lines in the .csv file. Make sure no empty lines are in the csv file after editing. 
 
